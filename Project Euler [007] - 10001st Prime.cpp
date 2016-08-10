@@ -45,11 +45,9 @@ int main() {
     
     nums[0] = 1;
     nums[1] = 1;
-    //cout << "2: " << nums[3] << endl;
     
     for (int i = 2; i*i < 105000; i++){
         if (nums[i] == 0){
-            //cout << "AYY: " << i << endl;
             for (int j = i*i; j < 105000; j += i){
                 nums[j] = 1;
             }
@@ -58,7 +56,6 @@ int main() {
     
     for (int i = 0; i < 105000; i++){
         if (nums[i] == 0){
-            //cout << "PRIME: " << i << endl;
             primes[primeCount] = i;
             primeCount++;
             if (primeCount > maxN){
