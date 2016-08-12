@@ -3,6 +3,7 @@ My Solutions to HackerRank's Adaptations of Project Euler Problems
 ______________________________________________________________________________________________________________________________________
 
 I have always had a keen interest in mathematics, and, from a young age, have been consistently amazed by the applications of mathematical concepts. When I discovered the opportunity provided by Project Euler to delve into various realms of mathematics while also developing my programming abilities, I was more than eager to begin.
+
 My solutions all begin with a comment describing the goal of the program (as stated on HackerRank), so it is not necessary to search for this online. More Information on Project Euler is provided below.
 ______________________________________________________________________________________________________________________________________
 
