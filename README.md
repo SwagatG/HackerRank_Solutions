@@ -8,6 +8,7 @@ My solutions all begin with a comment describing the goal of the program (as sta
 ______________________________________________________________________________________________________________________________________
 
 The problems are originally from: https://projecteuler.net/
+
 These problems have been adapted for programming by the team at: https://www.hackerrank.com/contests/projecteuler/challenges
 
 <h3>About Project Euler</h3>
