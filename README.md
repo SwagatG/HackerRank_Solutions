@@ -1,4 +1,4 @@
-# Project_Euler_Solutions
+# Project Euler Solutions
 My Solutions to HackerRank's Adaptations of Project Euler Problems
 ______________________________________________________________________________________________________________________________________
 
