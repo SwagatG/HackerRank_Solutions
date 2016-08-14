@@ -25,8 +25,4 @@ The intended audience include students for whom the basic curriculum is not feed
 
 <b>Can anyone solve the problems?</b>
 
-<<<<<<< HEAD
 The problems range in difficulty and for many the experience is inductive chain learning. That is, by solving one problem it will expose you to a new concept that allows you to undertake a previously inaccessible problem. So the determined participant will slowly but surely work his/her way through every problem.
-=======
-The problems range in difficulty and for many the experience is inductive chain learning. That is, by solving one problem it will expose you to a new concept that allows you to undertake a previously inaccessible problem. So the determined participant will slowly but surely work his/her way through every problem.
->>>>>>> refs/remotes/origin/master
